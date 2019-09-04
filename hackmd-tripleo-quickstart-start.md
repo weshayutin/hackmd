@@ -57,5 +57,8 @@ chmod +x quickstart.sh
 :::info
 **Find this document incomplete?** Leave a comment!
 :::
+:::info
+source: https://hackmd.io/UZPFdivCSAm18jTLDBSdfg?both
+:::
 
 ###### tags: `Templates` `Documentation`
